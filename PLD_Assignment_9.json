@@ -1,0 +1,21 @@
+{
+  "Person":
+      {
+    "Name:": "Joseph Jason S. Buhain",
+    "Phone:": "09283323842",
+    "Email:": "josephbuhain27@gmail.com",
+    "Education:": "Polytechnic University of the Philippines\nBS in Computer Engineering\nYear: 2021 - 2026",
+    "Description:": "Greetings, I am Joseph Jason S. Buhain, a software engineer that has professional experience in programming and software developing for 3 years. I am quite flexible in my abilities and I am willing to learn more and be prolific.",    
+    "Relevant Skills:": "Python, JavaScript, Django, Bash/Shell, HTML, Java",
+    "Professional Experiences:":["New Enterprise:",
+            "%Location: Calgary/Canada" ,
+            "%Position: Junior Software Developer",
+            "%Year: 2026 - Present(2028)",
+            "%Startup Company:",
+            "%Location: Manila/Philippines",
+            "%Position: Intern Software Developer",
+            "%Year: 2025 - 2026"]
+      }
+}           
+   
+     
