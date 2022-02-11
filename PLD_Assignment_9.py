@@ -63,5 +63,5 @@ for attribute, detail in data["Person"].items():
             pdf.multi_cell(0, 10, detail, ln = 1, border = 0, align = "L")   
         
 if __name__ == "__main__":
-    pdf.output("pdf_1.pdf") 
+    pdf.output("PLD_Assignment_9.pdf") 
 
